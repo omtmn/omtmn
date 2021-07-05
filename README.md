@@ -22,7 +22,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=omtmn)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=omtmn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
