@@ -22,7 +22,8 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omtmn&show_icons=true&hide_border=true" />
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=omtmn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
