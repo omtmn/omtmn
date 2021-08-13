@@ -5,7 +5,6 @@
 - 👨🏽‍🎓 Student at Lambda School
 - 📖 I’m always looking to learn new things 
 - 👯 Willing to collaborate with other developers
-- 🥳 Fun fact: I love everything Nintendo
 
 ### Connect with me:
 
