@@ -36,5 +36,4 @@
 
 </details>
 
-[twitter]: https://twitter.com/_omtmn
 [linkedin]: https://www.linkedin.com/in/omtmn/
