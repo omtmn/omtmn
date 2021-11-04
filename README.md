@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻  I'm a Full-Stack Web Developer
 - 📖  Currently looking for work and projects to contribute to
-- 🕺🏽  I love to talk about code so please don't hesitate to reach out on linkedIn
+-🏽🎮  Some of my hobbies include playing video games and learning new technologies
 
 ### Connect with me:
 
