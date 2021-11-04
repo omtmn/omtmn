@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻  I'm a Full-Stack Web Developer
 - 📖  Currently looking for work and projects to contribute to
--🏽🎮  Some of my hobbies include playing video games and learning new technologies
+- 🎮  My favorite video game currently is Back 4 Blood
 
 ### Connect with me:
 
