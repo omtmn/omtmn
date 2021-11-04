@@ -30,4 +30,7 @@
 
 </details>
 
+![Me Coding](https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif)
+
+
 [linkedin]: https://www.linkedin.com/in/omtmn/
