@@ -1,8 +1,8 @@
 ### Hi, I'm Alex!
 
-- 👨🏾‍💻  I'm a Full-Stack Web Developer
-- 📖  Currently looking for work and projects to contribute to
-- 🎮  My favorite video game currently is Back 4 Blood
+- 👨🏾‍💻  I'm a Software Engineer
+- 📖  Currently looking for projects to contribute to
+- 🎮  My favorite video game currently is Forza Horizon 5
 
 ### Connect with me:
 
