@@ -1,6 +1,6 @@
 ### Hi, I'm Alex!
 
-- 👨🏾‍💻  I'm a Software Engineer
+- 👨🏾‍💻  I'm a Software Developer
 - 📖  Currently looking for projects to contribute to
 - 🎮  My favorite video game currently is Forza Horizon 5
 
