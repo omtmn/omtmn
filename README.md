@@ -9,14 +9,6 @@
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Languages:
-
-<img align="left" alt="Python" width="26px" src="https://www.freepngimg.com/png/14704-python-logo-free-download-png" />
-<img align="left" alt="TypeScript" width="26px" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
 <br />
 
 <details>
