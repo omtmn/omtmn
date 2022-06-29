@@ -1,8 +1,8 @@
 ### Hi, I'm Alex!
 
 - 👨🏾‍💻  I'm a Software Developer
-- 📖  Currently looking for projects to contribute to
-- 🎮  My favorite video game currently is Forza Horizon 5
+- 📖  Currently developing my skills
+- 🎮  In my freetime I like to play my collection of PC games 
 
 ### Connect with me:
 
@@ -10,14 +10,11 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://www.freepngimg.com/png/14704-python-logo-free-download-png" />
+<img align="left" alt="TypeScript" width="26px" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
@@ -30,7 +27,7 @@
 
 </details>
 
-![Me Coding](https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif)
+![Me](https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif)
 
 
 [linkedin]: https://www.linkedin.com/in/omtmn/
